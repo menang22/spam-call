@@ -3,7 +3,7 @@
 #Apa mau recode tinggal pake aja asu
 #kaga moral tau gk
 
-import time, re, sys
+import time, re, sys,os,requests
 from requests import Session
 s = Session()
 
